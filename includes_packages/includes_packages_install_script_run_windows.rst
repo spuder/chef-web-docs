@@ -5,4 +5,4 @@ On |windows| systems the |omnitruck| install script is invoked using |windows po
 
 .. code-block:: powershell
 
-   $ . { iwr -useb https://omnitruck.chef.io/install.ps1 } | iex; install
+   . { iwr -useb https://omnitruck.chef.io/install.ps1 } | iex; install
